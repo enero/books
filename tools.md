@@ -1,5 +1,7 @@
 # Tools
 
-* (https://mimic.js.org/)
+* [Mimic - Seamless Client Side Mocks](https://mimic.js.org/)
 
-* (https://jsonplaceholder.typicode.com/)
+* [JSONPlaceholder - Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
+
+* [FillText generates JSON datasets for testing or demonstration purposes](http://www.filltext.com/)
