@@ -1,4 +1,6 @@
-# Tutorials
+# Tutorials and guides
+
+* [JavaScript Stack from Scratch](https://github.com/UsulPro/js-stack-from-scratch)
 
 * [Webpack: A Detailed Introduction](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
 
