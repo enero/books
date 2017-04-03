@@ -2,6 +2,8 @@
 
 * [JavaScript Stack from Scratch](https://github.com/UsulPro/js-stack-from-scratch)
 
+* [Intro to Vue.js](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
+
 * [Webpack: A Detailed Introduction](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
 
 * [A complete guide to CSS Grids](https://tympanus.net/codrops/css_reference/grid/)
