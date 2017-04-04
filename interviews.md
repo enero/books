@@ -13,3 +13,7 @@
 * [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html)
 
 * [JS: Basics and Tricky Questions](http://thatjsdude.com/interview/js2.html)
+
+# Разное
+
+* [Задачи с IT-собеседований](https://tproger.ru/category/problems/)
