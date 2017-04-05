@@ -14,6 +14,10 @@
 
 * [JS: Basics and Tricky Questions](http://thatjsdude.com/interview/js2.html)
 
+# Backend 
+
+* [Что нужно знать PHP разработчику в 2016 году, чтобы устроиться на работу: подробный список без лишней «воды»](https://tproger.ru/digest/what-php-developer-need-to-know/)
+
 # Разное
 
 * [Задачи с IT-собеседований](https://tproger.ru/category/problems/)
