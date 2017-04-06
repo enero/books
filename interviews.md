@@ -18,6 +18,8 @@
 
 * [Что нужно знать PHP разработчику в 2016 году, чтобы устроиться на работу: подробный список без лишней «воды»](https://tproger.ru/digest/what-php-developer-need-to-know/)
 
+* [Frequently Asked PHP Questions](https://wwphp-fb.github.io/faq/)
+
 # Разное
 
 * [Задачи с IT-собеседований](https://tproger.ru/category/problems/)
