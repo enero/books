@@ -4,6 +4,16 @@
 
 *[Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
 
+http://yoksel.github.io/flex-cheatsheet/
+
+http://html5.by/blog/flexbox/
+
+http://css-live.ru/articles/uporyadochivanie-bagov-krossbrauzernosti-flexbox.html
+
+https://habrahabr.ru/company/everydaytools/blog/321244/
+
+https://www.toptal.com/front-end/how-to-build-css-only-smart-layouts-with-flexbox?utm_campaign=blog_post_how_to_build_css_only_smart_layouts_with_flexbox&utm_medium=email&utm_source=blog_subscribers
+
 # Grid
 
 https://css-tricks.com/building-css-grid-overlay/
@@ -23,5 +33,7 @@ http://css-live.ru/articles/lakomye-kusochki-grid-rasklaki-chast-1-zachem-i-poch
 http://css-live.ru/articles/lakomye-kusochki-grid-rasklaki-chast-2-osnovy-i-terminologiya.html
 
 http://css-live.ru/articles-css/grid-fleksboks-moshhnejshee-kombo-v-veb-raskladke.html
+
+http://css-live.ru/css/zolotaya-rybka-css3-grid-layout.html
 
 
