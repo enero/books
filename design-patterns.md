@@ -1,6 +1,6 @@
 # Patterns in PHP
 
-* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans), [перевод](https://habrahabr.ru/company/mailru/blog/325492/)
 
 * [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/ru/latest/README.html)
 
