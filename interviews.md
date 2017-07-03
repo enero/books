@@ -23,3 +23,5 @@
 # Разное
 
 * [Задачи с IT-собеседований](https://tproger.ru/category/problems/)
+
+* [ITренировка - часть 1](https://habrahabr.ru/company/spice/blog/328454/), [часть 2](https://habrahabr.ru/company/spice/blog/329208/), [часть 3](https://habrahabr.ru/company/spice/blog/330066/)
