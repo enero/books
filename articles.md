@@ -1,5 +1,7 @@
 # Статьи
 
+* [Объясняем современный JavaScript динозавру](https://habrahabr.ru/company/mailru/blog/340922/)
+
 * [Понимание критического пути рендеринга](https://habrahabr.ru/post/320430/)
 
 * [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)

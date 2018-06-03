@@ -19,3 +19,7 @@
 * [Руководство по PHP7](https://habrahabr.ru/post/302942/)
 
 * [Полное руководство по загрузке изображений на PHP](https://denisyuk.by/all/polnoe-rukovodstvo-po-zagruzke-izobrazheniy-na-php/)
+
+* [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
+
+* [Inclusive Components](https://inclusive-components.design)
