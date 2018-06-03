@@ -1,5 +1,11 @@
 # Tutorials and guides
 
+* [Как сделать Drag-and-Drop загрузчик файлов на чистом JavaScript](https://medium.com/devschacht/https-medium-com-kasimoka-joseph-zimmerman-drag-drop-file-uploader-vanilla-js-de850d74aa2f)
+
+* [Руководство по промисам для тех, кто хочет в них разобраться](https://habr.com/company/ruvds/blog/358808/)
+
+* [Service Workers. Инструкция по применению](https://habr.com/company/2gis/blog/345552/)
+
 * [Верстка - это не тупо](http://webmasters.teamdev.com/?utm_content=bufferda37f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer#html)
 
 * [JavaScript Stack from Scratch](https://github.com/UsulPro/js-stack-from-scratch)

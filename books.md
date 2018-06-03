@@ -1,5 +1,7 @@
 # books
 
+* [Node Hero](https://medium.com/devschacht/node-hero-6a07ef8d822d)
+
 * [Выразительный Javascript](https://github.com/karmazzin/eloquentjavascript_ru)
 
 * [Learning JavaScript Design Patterns, Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/), [PDF](http://kfilin.com/progr/js/Learning%20JavaScript%20Design%20Patterns.pdf)

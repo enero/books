@@ -6,6 +6,8 @@
 
 # Patterns in Javascript
 
+* [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
+
 * [Шаблон](http://dnzl.ru/view_post.php?id=363)
 
 * [Декоратор](http://dnzl.ru/view_post.php?id=394)

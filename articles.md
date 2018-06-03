@@ -1,5 +1,11 @@
 # Статьи
 
+* [Обзор новшеств ECMAScript 2016, 2017, и 2018 с примерами](https://habr.com/company/ruvds/blog/353174/)
+
+* [Как работает JS: сетевая подсистема браузеров, оптимизация её производительности и безопасности](https://habr.com/company/ruvds/blog/354070/)
+
+* [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
+
 * [Объясняем современный JavaScript динозавру](https://habrahabr.ru/company/mailru/blog/340922/)
 
 * [XSS Challenges writeup](https://blog.0daylabs.com/2016/06/18/prompt-ml-XSS-challenge-writeup/)

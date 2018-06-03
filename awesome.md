@@ -1,4 +1,4 @@
-# Подборки полезных материалов
+# Подборки awesome репозиториев
 
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) 
 
