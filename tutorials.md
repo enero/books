@@ -1,5 +1,7 @@
 # Tutorials and guides
 
+* [Как и для чего использовать Docker](https://guides.hexlet.io/docker/)
+
 * [Как сделать Drag-and-Drop загрузчик файлов на чистом JavaScript](https://medium.com/devschacht/https-medium-com-kasimoka-joseph-zimmerman-drag-drop-file-uploader-vanilla-js-de850d74aa2f)
 
 * [Руководство по промисам для тех, кто хочет в них разобраться](https://habr.com/company/ruvds/blog/358808/)
