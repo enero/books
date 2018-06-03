@@ -2,6 +2,8 @@
 
 * [Объясняем современный JavaScript динозавру](https://habrahabr.ru/company/mailru/blog/340922/)
 
+* [XSS Challenges writeup](https://blog.0daylabs.com/2016/06/18/prompt-ml-XSS-challenge-writeup/)
+
 * [Понимание критического пути рендеринга](https://habrahabr.ru/post/320430/)
 
 * [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
