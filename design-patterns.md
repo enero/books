@@ -15,3 +15,5 @@
 # Different languages
 
 * [Design Patterns](https://sourcemaking.com/design_patterns)
+
+* [Рефакторинг.Гуру](https://refactoring.guru/ru)
