@@ -19,6 +19,12 @@
 
 * [Why You Should Avoid Vue.js DOM Templates](https://vuejsdevelopers.com/2017/09/17/vue-js-avoid-dom-templates/)
 
+* [How to build a pre-rendered, SEO-friendly Vue.js app](https://school.geekwall.in/p/HJAGkvUfG/how-to-build-a-pre-rendered-seo-friendly-vue-js-app)
+
+* [Common mistakes to avoid while working with Vue.js](https://school.geekwall.in/p/B1HObY4iG/common-mistakes-to-avoid-while-working-with-vue-js)
+
+* [Building a Real-World Web App With Vue.js and Firebase](https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase)
+
 # Lavavel
 
 *[How does Laravel framework work?](https://www.wedidknow.xyz/2017/03/how-does-laravel-framework-work.html)

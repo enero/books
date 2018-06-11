@@ -28,13 +28,15 @@
 
 * [Собеседование на должность JavaScript разработчика](https://habr.com/post/231071/)
 
+* [Десять типичных вопросов на собеседованиях на знание HTML](https://habr.com/post/244929/)
+
+* [Поиск работы фронтендером в 2016 году](http://andrew-r.ru/notes/searching-for-job-2016)
+
 # Backend 
 
 * [Что нужно знать PHP разработчику в 2016 году, чтобы устроиться на работу: подробный список без лишней «воды»](https://tproger.ru/digest/what-php-developer-need-to-know/)
 
 * [Frequently Asked PHP Questions](https://wwphp-fb.github.io/faq/)
-
-* [Поиск работы фронтендером в 2016 году](http://andrew-r.ru/notes/searching-for-job-2016)
 
 # Разное
 
@@ -49,5 +51,7 @@
 * [BrainGames](braingames.ru)
 
 * [123 задачи с IT-собеседований с разбором решений](https://tproger.ru/articles/problems/)
+
+* [Задачи на собеседованиях от Acronis и решения задач от Custis](https://xakep.ru/2015/07/07/coding-challenges-198/)
 
 
