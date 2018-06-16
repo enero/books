@@ -1,5 +1,7 @@
 # Tutorials and guides
 
+* [Developing small JavaScript components WITHOUT frameworks](https://jack.ofspades.com/developing-small-javascript-components-without-frameworks/), [Frameworkless JavaScript Part 2: Templates and Rendering](https://jack.ofspades.com/frameworkless-javascript-part-2-templates-and-rendering/), [Frameworkless JavaScript Part 3: One-Way Data Binding](https://jack.ofspades.com/frameworkless-javascript-part-3-one-way-data-binding/)
+
 * [Как и для чего использовать Docker](https://guides.hexlet.io/docker/)
 
 * [Как сделать Drag-and-Drop загрузчик файлов на чистом JavaScript](https://medium.com/devschacht/https-medium-com-kasimoka-joseph-zimmerman-drag-drop-file-uploader-vanilla-js-de850d74aa2f)
